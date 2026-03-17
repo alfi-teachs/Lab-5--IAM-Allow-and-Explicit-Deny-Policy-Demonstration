@@ -1,4 +1,4 @@
-# Lab-5--IAM-Allow-and-Explicit-Deny-Policy-Demonstration
+# Lab-5-IAM-Allow-and-Explicit-Deny-Policy-Demonstration
 
 # Part 1: Create IAM User (No Permissions)
 

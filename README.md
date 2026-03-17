@@ -1,6 +1,6 @@
 # Lab-5-IAM-Allow-and-Explicit-Deny-Policy-Demonstration
-
-https://www.youtube.com/watch?v=QkISYZdU-DI
+[
+https://www.youtube.com/watch?v=QkISYZdU-DI&t=29s
 
 # Part 1: Create IAM User (No Permissions)
 

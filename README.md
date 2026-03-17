@@ -1,5 +1,7 @@
 # Lab-5-IAM-Allow-and-Explicit-Deny-Policy-Demonstration
 
+https://www.youtube.com/watch?v=QkISYZdU-DI
+
 # Part 1: Create IAM User (No Permissions)
 
 Log in to AWS (root user)
